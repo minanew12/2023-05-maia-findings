@@ -4,20 +4,6 @@ Unless otherwise discussed, this repo will be made public after audit completion
 
 **Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](https://github.com/code-423n4/2023-05-maia-findings/issues/1) issue.
 
----
-
-## Audit findings are submitted to this repo
-
-Sponsors have three critical tasks in the audit process:
-
-1. Weigh in on severity.
-2. Respond to issues.
-3. Share your mitigation of findings.
-
-Let's walk through each of these.
-
-## High and Medium Risk Issues
-
 Please note: because wardens submit issues without seeing each other's submissions, there will always be findings that are duplicates. For all issues labeled `3 (High Risk)` or `2 (Medium Risk)`, these have been pre-sorted for you so that there is only one primary issue open per unique finding. All duplicates have been labeled `duplicate`, linked to a primary issue, and closed.
 
 ### Weigh in on severity 
